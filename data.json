@@ -1,0 +1,74 @@
+[
+    {
+        "name": String,
+        "description": String,
+        "price": Number,
+        "location": String,   
+    },
+    {
+        "name": "Kerala",
+        "price": "1500/day",
+        "category": "prime",
+        "image": "https://www.google.com/imgres?q=tourist%20places%20images%20in%20india&imgurl=https%3A%2F%2Fwww.bodhibihar.com%2Fwp-content%2Fuploads%2F2022%2F05%2FTop-10-Earning-Tourist-places-in-india.jpg&imgrefurl=https%3A%2F%2Fwww.bodhibihar.com%2Ftop-10-earning-tourist-places-in-india%2F&docid=GMG_H4SAii6ocM&tbnid=ZwnappiR2rz-gM&vet=12ahUKEwiG14a-88mGAxXdyzgGHYhZCGcQM3oFCIABEAA..i&w=810&h=511&hcb=2&ved=2ahUKEwiG14a-88mGAxXdyzgGHYhZCGcQM3oFCIABEAA"
+    },
+    {
+        "name": "Grapes",
+        "price": 30,
+        "category": "fruits",
+        "image": "https://i.pinimg.com/564x/f4/64/eb/f464eb3327d44ed66e587a726098c3fe.jpg"
+    },
+    {
+        "name": "Strawberry",
+        "price": 35,
+        "category": "fruits",
+        "image": "https://i.pinimg.com/564x/32/aa/38/32aa382e76d0a59986af1ec80fcfeede.jpg"
+    },
+    {
+        "name": "Pineapple",
+        "price": 40,
+        "category": "fruits",
+        "image": "https://i.pinimg.com/564x/2c/63/b7/2c63b7da12c461e62abad5e6473c08bf.jpg"
+    },
+    {
+        "name": "Blackberry",
+        "price": 30,
+        "category": "fruits",
+        "image": "https://i.pinimg.com/564x/37/b0/7c/37b07c7012cedfbd78ac0fa1ad297466.jpg"
+    },
+    {
+        "name": "Avocado",
+        "price": 60,
+        "category": "fruits",
+        "image": "https://i.pinimg.com/564x/e7/f1/0d/e7f10d9c8134d7626c404a089eb278f6.jpg"
+    },
+    {
+        "name": "Cauliflower",
+        "price": 10,
+        "category": "vegetables",
+        "image": "https://i.pinimg.com/564x/f9/a3/a1/f9a3a14f1d0c1ca829f0604c07181e0e.jpg"
+    },
+    {
+        "name": "Tomatoes",
+        "price": 30,
+        "category": "vegetables",
+        "image": "https://i.pinimg.com/564x/c2/da/d0/c2dad0767e554eb74dc1d7b59b79581f.jpg"
+    },
+    {
+        "name": "Pepper",
+        "price": 30,
+        "category": "vegetables",
+        "image": "https://i.pinimg.com/564x/70/55/a0/7055a0d9d0c09cb75b1eb76a4de3380d.jpg"
+    },
+    {
+        "name": "Onion",
+        "price": 15,
+        "category": "vegetables",
+        "image": "https://i.pinimg.com/564x/c7/22/01/c72201b4b1c922237730f2c7bc15f65f.jpg"
+    },
+    {
+        "name": "Potato",
+        "price": 15,
+        "category": "vegetables",
+        "image": "https://i.pinimg.com/564x/1f/98/b4/1f98b4ff5060a93b3b2aacd71036c0c6.jpg"
+    }
+]

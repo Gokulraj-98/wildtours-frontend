@@ -1,0 +1,28 @@
+/* Background Image */
+body {
+    background-color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  /* Animation */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .form-2-wrapper {
+    animation: fadeInUp 1s ease-in-out;
+    background: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
